@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hand_Eye_Coordination
+comment0.text=\r\n\ Write\ a\ program\ that\ displays\ a\ circle\ of\ radius\ 10\ pixels\ filled\ with\ \r\n\ a\ random\ color\ at\ a\ random\ location\ on\ a\ pane,\ as\ shown\ in\ figure\ 15.29b.\r\n\ When\ you\ click\ the\ circle,\ it\ disappears\ and\ a\ new\ random\ color\ circle\ is\r\n\ displayed\ at\ another\ random\ location.\ After\ 20\ circles\ are\ clicked,\ display\r\n\ the\ time\ spent\ in\ the\ pane,\ as\ shown\ in\ figure\ 15.29c.\r\n\ \r\n\ @author\ Mihaela\ McReynolds\r\n\ @version\ 1\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=c\ width\ height
+comment2.target=void\ changeProperties(javafx.scene.shape.Circle,\ double,\ double)
+comment2.text=\r\n\ Method\ to\ change\ the\ location\ and\ color\ of\ the\ circle,\ randomly,\ when\ it\ is\ clicked\r\n
+numComments=3
