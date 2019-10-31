@@ -9,6 +9,6 @@ JavaFX project: Write a program that displays a circle of radius 10 pixels fille
 PROJECT TITLE: Click the circles mini-game
 PURPOSE OF PROJECT: display a circle filled with a random color; when clicked, the circle disappears and another one appears at a random location. Keep track of how long it takes user to click 20 circles
 VERSION or DATE: 2018
-HOW TO START THIS PROJECT: 
+HOW TO START THIS PROJECT: Hand_Eye_Coordination.java
 AUTHORS: Mihaela McReynolds
 USER INSTRUCTIONS:
