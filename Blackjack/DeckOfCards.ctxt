@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DeckOfCards
+comment0.text=\r\n\ A\ deck\ of\ 52\ cards\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=DeckOfCards()
+comment2.params=
+comment2.target=java.util.Stack\ initDeck()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=Card\ deal()
+numComments=5

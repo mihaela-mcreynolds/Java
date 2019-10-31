@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rank\ suit
+comment1.target=Card(Card.Rank,\ Card.Suit)
+comment2.params=
+comment2.target=java.util.Map\ initCache()
+comment3.params=rank\ suit
+comment3.target=Card\ getCard(Card.Rank,\ Card.Suit)
+comment4.params=
+comment4.target=Card.Rank\ getRank()
+comment5.params=
+comment5.target=Card.Suit\ getSuit()
+comment6.params=rank\ suit
+comment6.target=java.lang.String\ cardKey(Card.Rank,\ Card.Suit)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=rankValue
+comment8.target=int\ getNumber(int)
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=aName
+comment1.target=Player(java.lang.String)
+comment2.params=
+comment2.target=void\ emptyHand()
+comment2.text=\r\n\ Reset\ the\ player's\ hand\ to\ empty\r\n
+comment3.params=aCard
+comment3.target=boolean\ addCard(Card)
+comment3.text=\r\n\ Add\ a\ card\ to\ the\ hand\r\n\ @param\ aCard\ \ \ \ the\ card\ to\ add\r\n\ @return\ \ \ \ \ \ \ \ \ whether\ the\ sum\ of\ the\ new\ hand\ is\ below\ or\ equal\ to\ 21\r\n
+comment4.params=
+comment4.target=int\ getHandSum()
+comment4.text=\r\n\ Get\ the\ sum\ of\ the\ cards\ in\ a\ hand\r\n\ \r\n\ @return\ the\ sum\r\n
+comment5.params=showFirstCard
+comment5.target=void\ printHand(boolean)
+numComments=6
